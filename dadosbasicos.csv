@@ -1,3 +1,3 @@
-id;nome;qtde;preco
-12505;Caixa papelão 25cm;1600;2.95
-12310;Caixa papelão 12cm;839;2.38 
+id,nome,qtde,preco
+12505,Caixa papelão 25cm,1600,2.95
+12310,Caixa papelão 12cm,839,2.38 
