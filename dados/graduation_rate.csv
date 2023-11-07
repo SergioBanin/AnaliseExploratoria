@@ -1,0 +1,1001 @@
+gender;race/ethnicity;ACT composite score;SAT total score;parental level of education;parental income;high school gpa;college gpa;years to graduate
+female;group B;31;2096;high school;34453;3.9;3.3;8
+female;group C;31;2037;some college;54740;4.0;3.4;4
+female;group B;24;1665;high school;52714;3.0;3.0;4
+male;group A;31;2222;master's degree;106432;4.0;3.4;6
+male;group C;29;2030;high school;78270;3.8;3.6;4
+female;group B;31;2074;some high school;43233;3.9;3.5;8
+female;group B;33;2166;some high school;51814;4.0;3.6;5
+male;group B;29;2000;some high school;66111;3.8;3.6;3
+male;group D;30;2059;high school;54348;3.9;3.4;4
+female;group B;33;2162;associate's degree;73583;4.0;3.4;4
+male;group C;29;1990;some high school;74594;3.7;3.4;5
+male;group D;27;2049;bachelor's degree;102317;3.8;3.6;5
+female;group B;31;2065;some high school;52405;3.9;3.5;6
+male;group A;24;1690;some high school;55839;2.9;2.8;5
+female;group A;27;1952;high school;67562;3.6;3.6;4
+female;group C;32;2266;some college;62667;4.0;3.8;3
+male;group C;27;1856;high school;75657;3.4;3.5;3
+female;group B;28;2006;some college;64218;3.9;3.2;4
+male;group C;32;2148;master's degree;85246;4.0;3.8;3
+female;group C;29;2003;some high school;53474;3.7;3.2;7
+male;group D;28;2003;bachelor's degree;75939;3.9;3.4;6
+female;group B;28;1900;high school;45934;3.6;3.2;5
+male;group D;24;1858;some high school;73629;3.4;3.5;7
+female;group C;26;1839;high school;62283;3.3;3.0;5
+male;group D;29;1959;some high school;41166;3.8;2.7;7
+male;group A;29;1993;some college;53376;3.8;3.3;4
+male;group B;26;1865;associate's degree;83092;3.4;3.0;5
+female;group C;31;2067;associate's degree;80682;4.0;3.8;5
+male;group C;30;2203;some college;64890;4.0;3.4;4
+female;group D;29;1921;high school;43380;3.5;3.4;4
+female;group D;34;2288;bachelor's degree;71330;4.0;3.5;4
+female;group B;26;1843;some college;53829;3.4;3.1;5
+female;group E;30;2046;some high school;61305;3.9;3.5;4
+male;group D;25;1699;high school;65570;3.1;3.2;4
+male;group E;26;1861;high school;59635;3.4;3.5;3
+male;group E;29;2062;bachelor's degree;70050;3.8;3.0;5
+female;group D;31;2205;some high school;30665;4.0;3.5;5
+female;group D;28;2042;high school;43924;3.8;3.5;7
+female;group D;27;1813;some high school;67771;3.4;3.1;4
+male;group B;26;1914;high school;48880;3.5;3.3;5
+male;group C;29;2055;high school;65333;3.9;3.8;3
+female;group C;29;2020;some high school;48074;3.8;3.2;5
+female;group B;25;1738;high school;34299;3.2;3.3;5
+male;group B;29;2060;some college;75033;3.7;3.4;4
+female;group E;26;1868;bachelor's degree;88359;3.4;3.3;6
+male;group B;31;2165;bachelor's degree;87685;4.0;3.9;4
+female;group A;26;1864;high school;69212;3.4;3.1;5
+female;group C;23;1794;high school;33228;3.3;3.3;4
+female;group D;30;2125;master's degree;90674;4.0;3.4;5
+male;group C;28;2004;some college;83394;3.8;3.3;4
+male;group E;26;1898;high school;43350;3.5;3.4;7
+male;group E;27;1903;associate's degree;69454;3.5;3.1;6
+male;group C;29;2034;associate's degree;73291;3.7;3.5;4
+male;group D;31;2011;some college;81190;4.0;3.6;4
+female;group C;25;1860;high school;83857;3.4;3.2;5
+female;group C;29;1958;some college;59793;3.9;3.3;4
+female;group E;25;1905;high school;64532;3.5;3.6;3
+male;group D;29;2105;master's degree;92333;3.9;3.7;3
+male;group D;29;1957;associate's degree;103718;3.6;3.7;3
+female;group C;26;1813;some high school;49883;3.4;2.9;6
+male;group E;27;1951;bachelor's degree;92649;3.6;3.4;6
+male;group A;29;2043;some college;54417;3.9;3.4;8
+male;group A;29;1989;high school;40300;3.7;3.6;4
+female;group C;26;1844;master's degree;75068;3.5;3.1;6
+female;group D;33;2118;some college;89473;4.0;3.6;7
+male;group B;32;2166;high school;35251;4.0;3.5;4
+male;group D;29;1937;some high school;38431;3.6;3.5;5
+female;group C;32;2324;bachelor's degree;39921;4.0;3.2;8
+male;group B;34;2145;some college;68352;4.0;3.7;4
+female;group C;30;1976;some high school;61387;3.8;3.2;5
+female;group D;28;2052;associate's degree;56461;3.9;3.6;3
+male;group D;34;2259;master's degree;113569;4.0;3.7;4
+female;group A;30;2103;some college;51622;3.9;3.4;4
+male;group C;26;1875;high school;61270;3.6;3.4;4
+male;group C;31;2190;some college;62696;4.0;3.4;7
+male;group B;27;1885;some high school;22601;3.4;2.9;5
+male;group E;30;2131;some high school;44354;4.0;3.4;6
+male;group A;32;2161;associate's degree;82138;4.0;3.9;7
+female;group D;29;2038;bachelor's degree;91528;3.8;3.1;8
+female;group E;30;2039;high school;52520;3.8;3.1;7
+female;group B;27;1971;high school;56443;3.6;3.1;7
+male;group B;28;2121;bachelor's degree;73316;4.0;3.4;7
+male;group A;28;1943;master's degree;82887;3.7;3.1;5
+male;group E;25;2010;some college;73908;3.6;3.3;5
+male;group D;28;1996;some college;33626;3.7;3.1;5
+female;group C;29;1987;associate's degree;78394;3.8;3.8;3
+female;group C;33;2190;some college;57950;4.0;3.6;3
+female;group D;30;1971;high school;63592;3.8;3.5;6
+female;group A;34;2188;master's degree;83574;4.0;3.4;5
+female;group D;30;2025;some college;80724;3.8;3.5;4
+female;group C;28;1866;high school;72855;3.5;3.4;4
+male;group C;31;2248;bachelor's degree;78417;4.0;3.8;4
+male;group C;28;1976;some high school;43619;3.6;3.0;6
+male;group C;29;1997;some college;51533;3.8;3.5;3
+female;group B;28;1941;some college;65003;3.5;3.3;4
+male;group C;30;2114;bachelor's degree;94926;4.0;3.4;4
+male;group B;33;2180;bachelor's degree;96312;4.0;3.5;4
+female;group E;25;1825;some college;65622;3.3;2.9;6
+female;group D;28;1878;some college;67031;3.6;3.3;5
+female;group D;23;1629;some high school;23929;2.8;3.2;4
+male;group B;29;2115;associate's degree;66623;4.0;3.7;3
+male;group D;31;2208;bachelor's degree;73358;4.0;3.5;5
+female;group D;29;2019;some college;88213;3.9;3.7;7
+male;group B;29;1901;high school;55003;3.7;3.4;4
+male;group C;26;1915;bachelor's degree;96160;3.6;3.5;4
+female;group C;27;1950;some high school;57662;3.7;3.0;6
+female;group D;28;1896;some high school;61385;3.5;3.5;4
+male;group E;26;1942;some college;75773;3.6;3.3;4
+female;group B;29;1953;high school;97924;3.7;3.4;4
+female;group B;26;2074;bachelor's degree;89376;3.8;3.5;4
+female;group D;31;2183;high school;36524;4.0;2.9;8
+male;group C;32;2181;bachelor's degree;96735;4.0;3.7;4
+male;group A;30;2046;some college;38951;3.9;3.0;6
+female;group D;27;1984;some high school;74029;3.6;3.3;4
+female;group E;31;2172;bachelor's degree;72472;4.0;3.5;4
+male;group C;30;2031;high school;60240;3.9;3.5;4
+female;group B;33;2280;associate's degree;85835;4.0;3.7;6
+female;group D;28;1942;some college;50356;3.9;3.1;5
+female;group D;30;2103;some college;77140;3.9;3.7;3
+female;group C;31;2067;associate's degree;100514;4.0;3.7;4
+female;group C;32;2140;some high school;52948;4.0;3.2;5
+male;group B;28;1977;associate's degree;81839;3.7;3.5;4
+female;group C;31;2134;bachelor's degree;76476;4.0;3.6;3
+male;group D;31;2110;some college;83436;3.9;3.2;8
+male;group E;30;1953;high school;76739;3.7;3.5;5
+female;group B;29;2031;bachelor's degree;66242;3.9;3.5;4
+male;group B;30;2213;associate's degree;100886;4.0;3.7;4
+male;group D;29;1953;some college;71358;3.8;3.6;4
+male;group D;29;2129;bachelor's degree;85142;4.0;3.6;4
+female;group A;30;2134;bachelor's degree;53759;4.0;3.3;4
+male;group D;35;2222;bachelor's degree;77163;4.0;3.7;4
+male;group C;27;1948;some college;73153;3.5;3.6;3
+male;group E;27;1908;master's degree;86513;3.5;3.0;6
+female;group C;30;2011;associate's degree;87086;3.8;3.2;5
+male;group D;26;2017;associate's degree;65500;3.7;3.1;5
+male;group C;30;2079;bachelor's degree;73985;3.9;3.5;5
+male;group B;27;1876;some high school;67163;3.6;3.4;4
+male;group E;27;1953;bachelor's degree;95011;3.5;3.4;5
+female;group C;27;1978;high school;42395;3.5;3.3;6
+male;group D;29;1970;some college;80664;3.9;3.6;3
+female;group D;27;1926;high school;58262;3.5;3.5;6
+female;group C;33;2189;high school;52978;4.0;3.1;5
+female;group E;35;2282;associate's degree;39753;4.0;3.4;9
+male;group A;27;1952;some high school;50924;3.6;3.6;4
+male;group D;28;1996;some college;64638;3.8;3.5;5
+female;group C;28;1953;some college;62815;3.8;3.5;7
+male;group B;29;1969;bachelor's degree;88438;3.8;3.5;5
+male;group C;31;2099;high school;75034;3.9;3.6;4
+female;group D;25;1817;associate's degree;90194;3.4;3.4;4
+male;group E;28;2085;some high school;28060;3.9;3.2;5
+male;group A;28;1974;high school;40530;3.8;3.3;9
+male;group A;29;2126;bachelor's degree;71784;4.0;3.0;8
+female;group B;31;2169;associate's degree;84793;4.0;3.7;4
+male;group D;31;2040;high school;79933;3.9;3.8;7
+male;group D;33;2108;high school;53051;4.0;3.6;7
+female;group C;30;2220;bachelor's degree;61071;4.0;3.3;4
+female;group E;28;1943;some high school;61837;3.5;3.1;5
+male;group B;30;2046;bachelor's degree;86988;4.0;3.3;7
+female;group B;30;2034;some college;73324;3.9;3.6;3
+male;group D;29;2122;master's degree;84708;3.9;3.8;6
+male;group B;32;2335;master's degree;55089;4.0;3.2;6
+female;group E;28;1901;some college;54141;3.5;3.1;4
+male;group B;27;2030;bachelor's degree;74034;3.8;3.6;3
+male;group C;29;2107;some college;81906;4.0;3.3;5
+female;group E;33;2247;associate's degree;65591;4.0;3.3;6
+female;group C;34;2342;bachelor's degree;82282;4.0;3.5;5
+male;group C;27;1966;bachelor's degree;90662;3.5;3.6;3
+female;group B;32;2142;some high school;38883;4.0;3.4;9
+female;group B;28;1967;high school;77680;3.6;3.4;4
+female;group C;24;1795;high school;43004;3.3;3.3;5
+male;group A;28;2051;some high school;41515;3.7;3.2;8
+male;group E;23;1651;some high school;39671;3.0;2.9;5
+female;group D;32;2204;bachelor's degree;72806;4.0;3.5;4
+female;group C;27;1853;some college;46486;3.6;3.2;5
+female;group C;28;2126;associate's degree;65287;4.0;3.0;7
+female;group C;29;2086;bachelor's degree;63743;4.0;3.2;5
+female;group B;26;1923;some college;61817;3.4;3.5;3
+female;group C;28;1954;associate's degree;107088;3.7;3.9;6
+female;group B;23;1735;some high school;56086;3.0;3.2;4
+female;group D;21;1648;some high school;25149;2.8;2.5;6
+male;group C;27;1897;some college;68360;3.6;3.0;6
+female;group C;30;2044;some high school;67479;3.8;3.5;4
+female;group E;28;1905;some college;65634;3.5;3.4;3
+female;group D;33;2280;master's degree;89384;4.0;3.7;5
+male;group C;30;2058;some college;68943;3.9;3.2;5
+male;group C;27;1965;high school;55245;3.5;3.0;5
+male;group E;34;2381;master's degree;92809;4.0;3.8;5
+male;group D;27;1924;some high school;41642;3.6;3.4;4
+male;group B;26;1953;some high school;64993;3.6;3.4;4
+female;group C;25;1773;some college;99323;3.3;3.3;7
+female;group E;23;1746;some college;74905;3.1;3.3;5
+male;group D;26;1955;some college;59119;3.4;3.5;6
+female;group B;25;1925;some high school;61190;3.4;3.3;5
+male;group D;27;1961;associate's degree;84180;3.6;3.3;4
+female;group C;25;1796;bachelor's degree;100434;3.4;3.1;5
+male;group D;22;1690;some high school;42681;2.9;3.1;6
+male;group C;30;2092;some high school;71441;4.0;3.8;3
+male;group E;27;2024;associate's degree;88564;3.9;3.4;4
+female;group B;28;2090;some college;56351;3.9;3.1;5
+female;group B;30;2163;bachelor's degree;73257;4.0;3.4;4
+female;group C;28;2000;bachelor's degree;71044;3.7;2.9;6
+female;group D;30;1946;high school;51861;3.8;3.4;4
+male;group C;28;1919;some high school;65788;3.5;2.9;5
+female;group B;28;2016;bachelor's degree;53925;4.0;3.2;4
+male;group C;28;2085;bachelor's degree;91824;4.0;3.8;3
+male;group D;28;1972;some college;55706;3.7;3.1;5
+male;group E;26;1948;bachelor's degree;79511;3.4;3.0;6
+male;group E;30;1933;some college;52859;3.8;3.2;4
+female;group B;28;1986;some high school;47085;3.7;3.3;7
+female;group B;32;2170;some high school;40676;4.0;3.6;4
+male;group D;29;2166;bachelor's degree;68558;4.0;3.3;4
+male;group C;28;1958;some college;66215;3.9;3.3;6
+female;group C;28;1831;high school;66240;3.3;3.6;6
+male;group C;26;1928;high school;68749;3.4;3.6;3
+male;group E;29;1934;some college;67303;3.6;3.4;4
+male;group B;28;2059;high school;55664;3.8;3.3;4
+female;group E;27;1875;high school;73312;3.6;3.3;4
+female;group C;29;1970;some high school;60169;3.7;3.2;5
+male;group B;30;2065;high school;66230;3.7;3.3;4
+male;group B;29;1994;some college;67071;3.9;3.4;7
+female;group D;29;2019;high school;43445;3.8;3.5;5
+male;group B;27;1949;associate's degree;79669;3.6;3.4;4
+female;group C;31;2145;some college;60839;4.0;2.9;7
+male;group D;28;1937;associate's degree;89677;3.7;3.0;7
+female;group B;35;2261;associate's degree;80854;4.0;3.9;3
+female;group E;32;2120;associate's degree;71573;4.0;3.4;5
+female;group C;28;2037;master's degree;100633;3.8;3.5;4
+male;group D;32;2234;some college;77961;4.0;3.6;5
+male;group A;34;2247;associate's degree;79335;4.0;3.4;5
+female;group C;25;1833;some high school;44324;3.4;3.3;5
+male;group D;26;1880;some college;51744;3.5;3.2;4
+male;group C;30;2018;high school;40899;3.8;2.9;6
+female;group B;33;2175;some college;90870;4.0;3.8;3
+male;group E;31;2144;some high school;64280;4.0;3.7;5
+male;group C;26;1999;master's degree;91526;3.7;3.4;4
+male;group D;28;1906;high school;57845;3.5;3.2;6
+male;group D;22;1669;associate's degree;75673;2.9;3.5;4
+female;group D;30;2041;some college;78901;4.0;3.4;4
+male;group B;23;1720;some high school;42125;3.0;3.0;5
+male;group C;33;2150;some high school;49254;4.0;3.3;5
+male;group D;29;2026;high school;54103;3.8;3.4;4
+female;group E;29;1935;high school;90058;3.6;3.5;4
+female;group D;26;1866;some high school;30668;3.4;3.3;7
+male;group E;26;1890;some college;64127;3.6;3.3;4
+male;group D;32;2161;high school;58161;4.0;3.8;3
+male;group C;25;1780;some high school;59375;3.3;3.4;3
+male;group E;25;1844;high school;31708;3.4;3.0;5
+female;group B;29;1995;some high school;34833;3.8;3.5;4
+female;group B;27;1944;high school;83149;3.7;3.7;3
+male;group C;30;2158;master's degree;95887;4.0;3.9;3
+male;group A;31;2106;associate's degree;72759;4.0;3.4;5
+female;group D;29;2054;some college;68641;3.9;3.4;4
+female;group B;30;2100;associate's degree;62139;4.0;3.5;6
+male;group D;31;2113;some college;87232;4.0;3.9;4
+male;group D;32;2268;bachelor's degree;78713;4.0;3.4;6
+female;group E;28;1940;associate's degree;46616;3.6;3.3;6
+female;group C;34;2266;some college;67635;4.0;3.3;9
+male;group C;29;2198;bachelor's degree;80679;4.0;3.3;4
+female;group B;28;2038;bachelor's degree;104372;3.8;3.8;3
+female;group C;26;1963;high school;77417;3.6;3.5;4
+female;group C;29;1967;some high school;43024;3.8;3.4;5
+male;group C;33;2142;associate's degree;72155;4.0;3.4;5
+female;group C;30;2045;some high school;49558;3.8;3.3;9
+female;group E;22;1693;some high school;51749;2.9;3.1;4
+male;group D;25;1817;some college;76480;3.3;3.0;5
+male;group D;29;2001;associate's degree;97984;3.9;3.9;4
+female;group C;29;2161;bachelor's degree;67459;4.0;3.3;6
+female;group D;26;1872;bachelor's degree;80945;3.4;3.3;4
+female;group D;32;2145;bachelor's degree;61001;4.0;3.5;4
+female;group E;30;2153;bachelor's degree;77349;4.0;3.3;5
+male;group C;30;2093;bachelor's degree;74692;4.0;3.3;4
+male;group C;28;1959;high school;54501;3.6;3.2;6
+female;group D;26;1894;associate's degree;80916;3.4;3.4;4
+female;group D;34;2286;bachelor's degree;90069;4.0;3.7;4
+male;group B;29;2066;some high school;52533;3.9;3.4;4
+male;group C;27;1949;some high school;63197;3.6;3.6;4
+female;group C;29;1901;high school;42550;3.5;3.4;4
+female;group E;27;1972;bachelor's degree;80257;3.7;2.8;8
+female;group C;26;1797;some college;80792;3.3;3.1;5
+male;group B;32;2245;bachelor's degree;100370;4.0;3.5;4
+male;group D;27;1968;some college;97183;3.5;3.6;3
+male;group D;29;1955;some college;81416;3.7;3.6;4
+female;group D;28;1939;associate's degree;66897;3.5;3.3;5
+female;group D;31;2057;high school;47904;4.0;3.5;5
+female;group B;31;2230;some college;74471;4.0;3.4;5
+male;group B;29;2079;some college;63850;3.9;3.6;3
+male;group E;31;2144;master's degree;111127;4.0;3.9;3
+female;group B;27;2043;some college;56413;3.7;3.3;4
+male;group B;28;2091;bachelor's degree;74424;3.9;3.4;4
+male;group E;26;1835;some college;58706;3.4;3.3;6
+male;group C;29;1992;high school;69545;3.9;3.7;3
+male;group D;27;1944;high school;56669;3.6;3.2;4
+male;group C;28;1883;high school;52202;3.6;3.0;7
+female;group E;29;1951;high school;66624;3.9;3.5;4
+male;group D;23;1752;high school;72980;3.1;3.5;3
+male;group B;30;2123;associate's degree;87243;4.0;3.6;7
+male;group A;27;1906;some college;74040;3.6;3.5;4
+male;group E;28;1996;some high school;43652;3.8;3.0;7
+male;group C;31;2193;some college;64749;4.0;3.7;3
+male;group D;30;2039;high school;71935;3.9;3.5;4
+male;group A;28;1942;some high school;29645;3.7;3.2;5
+male;group D;34;2297;associate's degree;59219;4.0;3.6;4
+female;group C;32;2199;bachelor's degree;77108;4.0;3.4;4
+male;group B;28;2063;high school;39432;3.8;3.4;5
+female;group C;29;1951;associate's degree;89283;3.5;3.3;4
+male;group A;25;1862;some high school;88715;3.4;3.5;5
+male;group E;28;1885;some high school;21518;3.6;3.4;5
+male;group C;34;2254;some college;67069;4.0;3.7;4
+female;group B;31;2104;associate's degree;77861;4.0;3.4;5
+female;group D;29;1987;some college;45862;3.7;3.0;9
+female;group B;30;2000;some high school;32128;3.8;3.5;4
+male;group B;29;2028;associate's degree;81480;3.8;3.7;5
+male;group D;29;1960;associate's degree;85370;3.8;3.5;4
+female;group C;25;1768;some college;66649;3.2;3.2;4
+female;group C;28;1976;some high school;65468;3.8;3.7;4
+male;group C;28;2032;master's degree;68891;3.8;3.4;4
+female;group D;28;1929;bachelor's degree;81572;3.5;3.1;5
+male;group C;24;1753;some high school;36722;3.1;2.9;8
+male;group B;28;1966;some college;76246;3.9;3.4;4
+female;group D;28;2007;some college;88724;3.7;3.5;6
+female;group C;29;1943;associate's degree;43944;3.5;2.9;6
+female;group E;29;1981;some college;55640;3.8;3.4;4
+female;group C;31;2098;high school;53542;4.0;3.3;5
+female;group C;32;2179;associate's degree;83928;4.0;3.6;7
+female;group C;32;2322;associate's degree;85153;4.0;3.7;4
+female;group C;29;1937;high school;31088;3.5;3.3;4
+male;group C;32;2234;some college;98053;4.0;3.8;8
+male;group A;34;2191;associate's degree;71506;4.0;3.4;4
+male;group C;24;1966;bachelor's degree;74705;3.6;3.3;4
+female;group B;30;2138;bachelor's degree;53449;4.0;3.1;5
+male;group C;27;2018;some high school;50041;3.7;3.1;5
+male;group C;35;2375;master's degree;98877;4.0;3.9;4
+male;group E;31;2114;bachelor's degree;69541;4.0;3.4;4
+male;group B;29;2124;bachelor's degree;103024;4.0;3.6;7
+female;group C;30;2031;some college;66775;3.9;3.4;4
+female;group B;28;2027;bachelor's degree;102006;3.9;3.9;4
+male;group D;29;1926;associate's degree;49553;3.7;3.6;7
+male;group C;27;1897;associate's degree;87360;3.4;3.2;5
+female;group B;32;2202;some college;76360;4.0;3.8;7
+female;group D;28;1901;high school;64772;3.5;3.3;7
+male;group C;32;2148;high school;42437;4.0;3.4;5
+female;group C;31;2099;associate's degree;59296;4.0;3.3;5
+female;group B;26;1906;bachelor's degree;77312;3.5;3.6;3
+male;group D;29;2041;some high school;41942;3.8;3.4;5
+male;group D;29;2108;bachelor's degree;88408;4.0;3.8;3
+female;group C;31;2182;some college;47476;4.0;3.2;6
+male;group B;26;1851;high school;20207;3.3;3.4;4
+female;group C;25;1758;some college;75418;3.3;3.2;4
+male;group D;34;2231;associate's degree;58836;4.0;3.8;3
+male;group E;27;2013;some high school;51366;3.6;3.6;3
+female;group B;31;2051;high school;63479;4.0;3.6;4
+male;group E;28;1970;some college;31424;3.6;3.4;4
+female;group C;30;2109;bachelor's degree;81875;4.0;3.4;6
+female;group C;28;1990;some high school;56781;3.7;3.1;5
+female;group C;24;1774;high school;42579;3.0;3.1;7
+female;group B;21;1592;some high school;47790;2.8;3.2;6
+male;group A;33;2241;some college;51601;4.0;3.4;4
+female;group C;33;2218;bachelor's degree;119465;4.0;4.0;4
+male;group D;27;1770;high school;62061;3.3;3.4;4
+female;group D;27;1913;bachelor's degree;71220;3.7;3.1;5
+female;group B;27;1895;high school;53552;3.6;3.3;6
+male;group B;30;2215;bachelor's degree;74002;4.0;3.7;4
+female;group C;24;1778;some high school;70420;3.1;3.3;5
+female;group D;32;2111;some college;77528;4.0;3.2;7
+male;group C;32;2151;high school;61392;4.0;3.3;5
+male;group A;25;1827;some high school;65160;3.2;3.3;4
+male;group C;27;1930;some high school;47471;3.4;3.2;6
+male;group C;26;1893;some high school;34777;3.6;3.2;6
+female;group A;26;1900;some college;59819;3.5;3.2;5
+female;group D;21;1744;high school;68893;3.1;3.1;4
+male;group E;27;1961;some high school;35298;3.6;3.0;9
+female;group C;29;2070;associate's degree;72439;3.7;3.3;4
+male;group D;26;1836;high school;63226;3.4;3.0;5
+female;group D;26;1822;associate's degree;68517;3.5;3.5;3
+female;group D;31;2102;associate's degree;55693;4.0;3.4;4
+male;group E;26;1865;high school;53878;3.5;3.2;4
+female;group D;22;1736;some college;60153;3.0;3.2;4
+female;group D;32;2224;bachelor's degree;76359;4.0;3.5;4
+female;group A;34;2307;master's degree;83440;4.0;3.5;4
+male;group A;31;2022;high school;85485;4.0;3.4;5
+female;group B;29;2002;associate's degree;57769;3.7;3.5;4
+male;group C;31;2138;high school;69796;4.0;3.6;5
+male;group C;33;2265;some college;77170;4.0;3.5;4
+female;group E;28;1873;high school;70060;3.5;3.3;5
+female;group A;33;2205;high school;49771;4.0;3.4;5
+female;group E;32;2206;associate's degree;84385;4.0;3.7;6
+female;group E;28;2015;associate's degree;89921;3.8;3.5;4
+female;group C;26;2008;some college;81420;3.8;3.1;5
+female;group D;27;1817;some high school;55891;3.3;3.2;4
+male;group D;29;1925;associate's degree;80414;3.6;3.4;6
+male;group E;32;2190;associate's degree;75091;4.0;3.7;5
+female;group D;29;1994;some college;58573;3.9;3.1;7
+male;group E;22;1725;some high school;47707;2.9;3.0;5
+male;group C;31;2180;bachelor's degree;92777;4.0;3.6;5
+female;group C;28;1956;high school;59719;3.7;3.6;3
+male;group A;26;1833;some high school;61643;3.3;3.4;3
+female;group B;32;2162;some college;83219;4.0;3.4;4
+female;group C;28;1987;master's degree;84924;3.7;3.4;6
+male;group B;28;1944;some high school;60080;3.8;3.3;4
+male;group D;31;2208;associate's degree;93919;4.0;3.3;5
+female;group C;30;2085;associate's degree;84809;3.9;3.5;5
+male;group A;29;1994;some high school;34091;3.7;2.6;7
+female;group A;29;2047;associate's degree;71698;3.8;3.5;5
+female;group D;33;2146;associate's degree;83288;4.0;3.3;7
+female;group C;31;2049;high school;70782;4.0;3.6;4
+female;group C;34;2299;master's degree;71346;4.0;3.6;5
+male;group B;29;1869;some college;95961;3.5;3.4;4
+female;group B;34;2214;associate's degree;79369;4.0;3.7;5
+female;group D;27;1850;some college;54524;3.4;3.5;3
+male;group D;25;1891;bachelor's degree;69482;3.6;3.0;9
+female;group D;32;2140;some college;76768;4.0;3.1;8
+male;group E;27;1805;some high school;50062;3.3;3.4;4
+male;group D;32;2218;high school;65940;4.0;3.6;4
+male;group B;26;1812;some high school;60956;3.3;3.2;5
+female;group C;30;2129;associate's degree;80492;3.9;3.4;4
+male;group E;35;2294;master's degree;58729;4.0;3.3;6
+male;group C;30;2011;high school;58499;3.8;3.4;4
+male;group C;29;2123;some college;79117;4.0;3.4;4
+male;group D;27;1916;master's degree;76840;3.5;3.1;6
+male;group E;32;2133;master's degree;90116;4.0;3.9;5
+female;group C;29;2008;high school;65906;3.7;3.6;5
+female;group D;24;1870;some college;75616;3.4;3.5;4
+female;group D;29;1955;some college;88088;3.7;3.6;4
+female;group A;29;1971;some college;101874;3.7;3.6;4
+male;group B;33;2244;bachelor's degree;91224;4.0;3.7;4
+female;group C;34;2161;high school;29344;4.0;3.6;5
+male;group C;31;2052;high school;76307;3.9;3.6;4
+male;group C;28;1969;some college;61969;3.8;3.2;6
+male;group A;26;1964;some college;65247;3.5;3.5;3
+male;group C;29;1904;high school;48388;3.7;3.3;6
+male;group C;29;2163;associate's degree;60703;4.0;3.6;4
+female;group C;31;2167;bachelor's degree;59332;4.0;3.3;4
+male;group C;28;2004;some college;38875;3.7;3.1;7
+female;group A;30;2068;master's degree;113469;4.0;3.7;4
+male;group C;27;1843;some college;43313;3.4;3.1;5
+male;group C;28;1974;high school;62526;3.8;3.1;9
+male;group D;26;1913;some college;66574;3.5;3.6;3
+male;group D;27;1756;some high school;73082;3.3;3.2;4
+male;group C;29;2023;associate's degree;91429;3.8;3.4;4
+male;group D;27;1901;some college;36346;3.5;3.2;7
+female;group C;29;1938;some high school;62600;3.7;3.6;3
+female;group D;29;2191;bachelor's degree;90830;4.0;3.7;5
+female;group A;30;2075;high school;42737;3.8;3.1;6
+female;group B;35;2231;associate's degree;54574;4.0;3.8;3
+male;group A;26;1795;some high school;45767;3.2;2.7;10
+female;group C;28;2067;bachelor's degree;54276;3.9;3.3;8
+male;group D;26;1918;associate's degree;92169;3.7;3.7;6
+male;group C;26;1814;some high school;63834;3.2;3.1;4
+male;group B;33;2123;some college;79434;4.0;3.3;5
+male;group B;29;1890;associate's degree;86884;3.7;3.4;4
+female;group C;28;1911;high school;67689;3.6;3.7;3
+female;group E;28;1915;high school;45239;3.6;3.2;6
+female;group C;30;2273;master's degree;94395;4.0;3.8;7
+male;group C;22;1599;some college;62729;2.9;2.5;7
+female;group C;28;1870;high school;38617;3.5;3.3;5
+male;group C;26;1940;associate's degree;58119;3.6;3.4;4
+female;group D;28;2021;some college;62794;3.8;3.4;4
+male;group D;31;2087;some high school;47762;4.0;3.0;6
+female;group E;31;1994;associate's degree;102501;4.0;3.7;7
+male;group B;29;2006;high school;63460;3.8;3.4;4
+male;group C;29;2117;bachelor's degree;82781;4.0;3.1;5
+male;group B;29;2047;associate's degree;57876;3.8;3.6;7
+female;group E;25;1720;high school;40027;3.1;3.1;5
+female;group C;28;1946;some high school;66082;3.7;3.4;6
+male;group A;31;2056;associate's degree;77040;3.8;3.6;4
+female;group C;28;1971;some college;76310;3.7;3.6;4
+female;group D;26;1798;some high school;76547;3.4;3.3;4
+male;group A;29;1924;bachelor's degree;101139;3.7;3.5;6
+female;group A;29;2045;high school;65555;3.7;3.6;4
+male;group C;31;2089;some college;96982;4.0;3.6;4
+female;group C;28;1915;associate's degree;61442;3.5;3.3;4
+female;group C;27;1940;some high school;35976;3.5;3.2;5
+female;group C;27;1886;some high school;48788;3.4;3.2;5
+female;group D;27;1833;some high school;58536;3.3;3.1;4
+female;group B;31;2085;associate's degree;82478;3.9;3.8;4
+female;group D;31;2113;high school;51633;4.0;3.4;4
+male;group E;26;1803;some high school;63645;3.5;3.4;6
+male;group D;28;2003;bachelor's degree;61023;3.9;3.2;4
+female;group D;25;1870;some college;72963;3.4;3.4;4
+male;group E;32;2241;bachelor's degree;111226;4.0;3.9;3
+male;group B;27;1882;some high school;37928;3.4;3.2;5
+female;group D;27;1894;some college;71100;3.6;3.2;5
+male;group C;29;1978;associate's degree;65078;3.7;3.6;3
+male;group A;25;1873;some high school;42419;3.4;3.3;4
+female;group B;29;1973;high school;67971;3.7;3.3;4
+male;group C;29;2037;high school;53578;3.7;3.4;4
+male;group D;32;2193;some college;76489;4.0;3.9;3
+female;group C;32;2260;some college;48672;4.0;3.5;6
+male;group B;27;1896;high school;58270;3.4;3.3;4
+male;group A;23;1731;bachelor's degree;65812;3.1;3.2;6
+female;group A;27;1921;high school;38558;3.5;3.2;5
+female;group C;28;1950;high school;33297;3.8;3.5;6
+female;group C;32;2141;associate's degree;93455;4.0;3.6;4
+female;group C;30;2168;bachelor's degree;99095;4.0;3.2;5
+female;group B;31;2009;high school;24944;3.7;3.4;4
+male;group D;29;1899;high school;82128;3.6;3.4;4
+female;group C;27;1850;some high school;38667;3.4;3.3;6
+female;group D;28;1913;some high school;58658;3.6;3.3;5
+female;group B;23;1756;high school;39619;3.1;3.2;6
+male;group E;31;2150;associate's degree;99243;4.0;3.4;8
+female;group D;29;2060;associate's degree;93875;3.9;3.2;5
+female;group B;31;2120;master's degree;106155;4.0;3.9;6
+male;group C;29;2073;bachelor's degree;67076;4.0;3.4;4
+female;group E;29;1941;associate's degree;59835;3.7;3.5;3
+female;group D;26;1819;some high school;58764;3.2;3.1;4
+female;group B;30;2010;some college;68611;3.9;3.3;4
+male;group A;27;1915;some high school;41468;3.5;3.1;6
+male;group B;25;1739;some high school;79716;3.2;3.5;4
+male;group C;33;2325;master's degree;90865;4.0;3.8;8
+female;group C;30;1967;associate's degree;60824;3.8;3.5;6
+male;group D;27;1968;bachelor's degree;73566;3.7;3.5;3
+male;group A;30;2124;some college;54467;4.0;3.5;5
+male;group D;25;1753;some high school;64235;3.1;3.1;4
+female;group B;27;1893;bachelor's degree;75068;3.5;3.2;4
+female;group B;28;1995;some college;91695;3.9;3.6;6
+female;group C;23;1760;associate's degree;49363;3.1;2.8;6
+female;group D;31;2190;some college;84602;4.0;3.8;5
+female;group E;29;2144;master's degree;81186;4.0;3.3;5
+female;group D;31;2214;master's degree;64234;4.0;3.4;4
+female;group B;26;1865;some high school;30240;3.3;3.0;9
+male;group D;30;2035;high school;101105;3.8;3.6;6
+female;group C;20;1584;some high school;58073;2.8;3.3;5
+male;group D;30;2062;high school;45857;3.8;3.5;4
+male;group C;34;2198;some college;75280;4.0;3.1;6
+male;group C;29;2021;some college;70631;3.8;3.3;4
+male;group E;29;2018;high school;84507;3.8;3.4;4
+male;group C;25;1728;some high school;69589;3.3;3.5;6
+female;group C;29;2008;some college;56817;3.7;3.3;4
+female;group D;34;2216;some college;73502;4.0;3.5;4
+female;group C;30;2096;bachelor's degree;91757;3.9;3.5;4
+female;group C;30;1962;associate's degree;93809;3.7;3.4;4
+female;group C;27;1878;some college;62223;3.6;3.2;5
+male;group E;30;2165;associate's degree;84104;4.0;3.6;4
+female;group E;30;2175;master's degree;67294;4.0;3.5;7
+male;group B;23;1682;some high school;49464;2.9;3.3;5
+female;group C;26;1784;some high school;47445;3.3;3.3;6
+male;group C;31;2171;some college;49485;4.0;3.4;6
+female;group D;21;1800;some high school;76811;3.0;3.4;3
+male;group E;29;2052;bachelor's degree;76110;4.0;3.3;4
+male;group A;28;1993;some college;42542;3.8;3.0;10
+male;group C;29;2075;associate's degree;55162;4.0;3.6;6
+male;group D;26;1887;some college;48914;3.4;3.1;7
+female;group C;28;2013;high school;70398;3.7;3.7;3
+female;group D;29;2076;some high school;51626;3.8;3.3;4
+female;group D;28;1977;bachelor's degree;89824;3.7;3.3;5
+male;group E;32;2130;some high school;56816;4.0;3.6;4
+female;group A;29;2055;bachelor's degree;68534;3.9;3.6;7
+male;group C;32;2263;bachelor's degree;88694;4.0;3.5;5
+female;group C;24;1754;some high school;36202;3.1;3.1;6
+male;group C;28;1968;high school;42602;3.6;3.4;5
+male;group C;26;1882;associate's degree;67690;3.4;3.2;8
+male;group B;31;2038;associate's degree;65809;4.0;3.6;4
+female;group B;29;2148;some college;61294;4.0;3.5;4
+male;group D;27;1987;high school;48403;3.6;3.6;4
+male;group E;30;2025;high school;71221;3.7;3.5;4
+female;group C;30;2100;associate's degree;57477;3.9;3.6;3
+female;group C;29;1960;bachelor's degree;101754;3.9;3.5;4
+male;group C;29;2020;associate's degree;85487;3.9;3.4;4
+female;group B;27;1965;some high school;61826;3.6;3.3;4
+male;group D;27;1994;associate's degree;81216;3.7;3.6;4
+female;group D;31;2077;some college;72634;4.0;3.6;4
+female;group C;31;2165;some high school;46942;4.0;3.6;4
+male;group C;28;1972;bachelor's degree;86896;3.7;3.3;4
+female;group D;26;1921;bachelor's degree;77960;3.5;3.2;5
+male;group B;29;2006;associate's degree;65719;4.0;3.2;5
+male;group B;30;2094;associate's degree;81189;4.0;3.6;4
+female;group E;24;1754;some high school;51351;3.2;3.4;3
+female;group D;31;2113;master's degree;74021;4.0;3.5;4
+male;group B;26;1864;associate's degree;79154;3.3;3.6;4
+male;group D;27;1927;some college;36845;3.7;3.5;4
+male;group B;28;1991;some college;66395;3.7;3.3;4
+male;group A;28;1885;high school;84964;3.5;3.4;4
+female;group C;28;1896;some high school;22257;3.6;3.4;5
+female;group C;25;1831;some high school;54249;3.2;3.1;7
+female;group E;27;2045;associate's degree;36566;3.7;3.1;5
+male;group A;33;2356;master's degree;78082;4.0;3.6;4
+male;group A;22;1671;some high school;40934;3.0;3.3;4
+female;group B;31;2020;high school;55588;3.9;2.9;7
+female;group B;32;2047;associate's degree;85332;4.0;3.6;4
+female;group D;26;1886;some college;60202;3.6;3.0;9
+female;group D;34;2322;associate's degree;76978;4.0;3.5;6
+female;group E;28;1911;high school;80221;3.6;3.5;4
+female;group D;27;1904;associate's degree;73347;3.6;3.5;3
+female;group D;27;1872;high school;58602;3.4;3.5;3
+female;group D;23;1825;some college;59153;3.3;3.1;6
+female;group C;27;1912;high school;76690;3.4;3.4;4
+female;group A;30;2167;high school;64682;4.0;3.4;4
+female;group C;33;2238;some college;75281;4.0;3.9;3
+female;group C;31;2204;associate's degree;64369;4.0;3.6;5
+female;group A;29;1961;high school;61713;3.7;3.2;5
+male;group C;28;2013;associate's degree;64175;3.7;3.3;4
+male;group A;29;2056;bachelor's degree;94295;4.0;3.2;5
+male;group E;24;1726;some high school;52241;3.1;3.4;3
+female;group E;32;2260;bachelor's degree;80468;4.0;3.7;4
+female;group C;24;1874;some college;60463;3.4;3.1;4
+female;group C;28;1934;associate's degree;87519;3.7;3.6;6
+male;group B;30;2075;some college;63665;4.0;3.2;5
+male;group A;26;1750;high school;49598;3.3;3.2;6
+female;group D;29;1847;some high school;58924;3.5;3.1;5
+female;group D;27;1742;some high school;47407;3.4;3.0;6
+female;group D;31;2129;high school;47357;4.0;3.3;8
+female;group C;29;1983;bachelor's degree;96585;3.9;3.6;4
+female;group E;26;1917;high school;62025;3.5;3.3;4
+male;group D;28;1933;some high school;32457;3.6;3.3;5
+male;group D;26;1938;high school;63720;3.5;3.5;4
+male;group C;29;2039;bachelor's degree;72074;3.9;3.3;4
+female;group C;34;2286;bachelor's degree;55707;4.0;3.5;5
+female;group C;28;2095;associate's degree;89028;3.8;3.3;7
+female;group E;31;2090;bachelor's degree;95231;4.0;3.5;4
+female;group B;31;2173;associate's degree;51662;4.0;3.4;4
+male;group D;27;1834;some high school;57563;3.4;3.3;4
+female;group C;26;1795;some high school;38657;3.2;3.0;5
+male;group C;29;2065;high school;57435;3.7;3.3;4
+female;group C;29;2114;bachelor's degree;106358;4.0;3.6;4
+female;group A;29;2092;master's degree;84740;4.0;3.4;5
+female;group C;28;2100;bachelor's degree;92424;4.0;3.2;6
+female;group E;26;1753;some high school;67595;3.3;3.5;6
+male;group D;30;2117;some college;79456;4.0;3.4;4
+male;group D;28;2073;some college;61653;3.8;3.1;5
+male;group C;30;2061;associate's degree;87811;3.9;3.5;5
+female;group C;32;2167;some college;78939;4.0;3.3;6
+male;group B;27;1850;associate's degree;58686;3.5;3.1;9
+male;group C;28;1903;some high school;53918;3.5;3.2;6
+male;group A;29;2016;some college;75864;3.7;3.4;5
+female;group E;30;2095;associate's degree;84415;4.0;3.9;3
+male;group D;25;1861;high school;61939;3.4;3.2;6
+male;group B;26;1838;some college;65823;3.4;3.5;3
+male;group D;29;2033;high school;55752;3.7;3.2;5
+male;group D;33;2261;associate's degree;64106;4.0;3.7;7
+female;group C;31;2155;some college;61995;4.0;3.1;5
+male;group D;33;2174;associate's degree;82668;4.0;3.5;4
+male;group B;29;1880;high school;63768;3.6;3.5;6
+female;group B;32;2123;associate's degree;52766;4.0;3.5;4
+female;group C;32;2108;associate's degree;68279;4.0;3.5;4
+male;group D;30;2087;bachelor's degree;111631;3.9;3.6;4
+male;group A;26;1778;some high school;60750;3.1;3.5;6
+female;group B;30;2116;associate's degree;62721;3.9;3.1;7
+female;group D;27;1752;some high school;39367;3.3;3.1;5
+male;group E;29;2059;master's degree;94741;3.7;3.8;5
+female;group D;27;2036;some college;69014;3.7;3.2;5
+male;group D;33;2189;some college;71223;4.0;3.7;3
+female;group D;26;1955;some college;68505;3.7;3.3;4
+female;group B;32;2193;master's degree;72624;4.0;3.6;4
+female;group E;29;2013;bachelor's degree;85874;3.8;3.2;5
+male;group B;33;2345;master's degree;76804;4.0;3.4;5
+female;group B;29;2023;some college;85574;3.7;3.3;4
+female;group D;25;1782;high school;55504;3.2;3.1;6
+female;group E;26;1984;associate's degree;101514;3.6;3.6;5
+female;group B;27;1995;some college;79531;3.7;3.3;6
+female;group D;25;1928;associate's degree;89653;3.6;3.6;3
+male;group C;24;1875;bachelor's degree;66069;3.4;3.2;4
+female;group A;28;1935;some high school;67326;3.5;3.3;4
+female;group D;29;2014;high school;84320;3.8;3.8;4
+female;group A;33;2216;associate's degree;81991;4.0;3.9;3
+female;group B;27;1834;associate's degree;82391;3.4;3.4;4
+female;group B;29;2080;some college;79697;4.0;3.5;7
+male;group C;25;1994;bachelor's degree;88151;3.6;3.4;8
+male;group D;30;2125;bachelor's degree;75893;4.0;3.4;5
+female;group D;25;1840;associate's degree;61861;3.3;3.1;5
+male;group D;25;1818;some college;91515;3.4;3.4;7
+male;group C;28;1915;high school;44171;3.6;3.4;5
+male;group C;29;2037;master's degree;89084;3.9;3.2;8
+female;group D;31;2055;some college;79482;4.0;3.7;3
+female;group C;34;2218;associate's degree;49244;4.0;3.8;8
+male;group D;24;1742;some high school;55658;3.2;3.0;7
+female;group C;32;2140;high school;58461;4.0;3.9;3
+female;group C;25;1804;some high school;48570;3.3;3.1;7
+female;group B;33;2288;master's degree;99194;4.0;3.5;6
+male;group C;33;2225;associate's degree;71302;4.0;3.7;6
+male;group D;21;1656;some college;59947;3.0;3.0;6
+female;group C;26;2010;some college;46273;3.6;3.2;5
+male;group D;31;2201;bachelor's degree;89050;4.0;3.6;8
+female;group C;26;1887;some high school;46645;3.5;3.0;9
+female;group C;31;2232;bachelor's degree;103862;4.0;3.7;4
+female;group D;27;1969;associate's degree;69272;3.7;3.3;6
+female;group B;31;2238;bachelor's degree;82301;4.0;3.9;3
+female;group E;29;2056;associate's degree;94358;3.9;3.9;6
+female;group C;27;2004;master's degree;96087;3.8;3.3;5
+male;group D;24;1763;some high school;71215;3.0;3.3;5
+male;group D;28;1902;high school;68274;3.5;3.5;4
+female;group D;31;2117;master's degree;103117;4.0;3.6;4
+male;group B;30;2026;master's degree;87875;3.9;3.5;4
+male;group B;34;2289;master's degree;92765;4.0;3.6;5
+female;group C;28;1862;high school;41702;3.5;3.4;9
+male;group B;27;1958;associate's degree;47313;3.7;3.2;5
+female;group E;29;2063;high school;51799;3.9;3.4;4
+male;group E;28;1919;some high school;45550;3.5;3.2;5
+male;group D;29;2098;some college;79468;3.9;3.3;4
+male;group A;29;1904;high school;62219;3.6;3.2;5
+male;group E;29;1936;some college;39532;3.8;3.2;5
+female;group C;26;1884;high school;55397;3.4;3.3;6
+female;group E;33;2250;high school;74668;4.0;3.5;5
+female;group C;29;2076;bachelor's degree;94999;3.9;3.8;3
+female;group D;29;2029;bachelor's degree;69108;4.0;3.2;6
+female;group C;29;2042;associate's degree;117613;3.7;3.7;4
+female;group D;24;1827;some high school;36365;3.2;3.4;4
+female;group C;26;1939;high school;53781;3.6;3.2;7
+female;group A;27;1966;associate's degree;67575;3.7;3.6;5
+female;group D;30;2028;high school;50932;3.9;3.2;5
+male;group C;27;1914;high school;73152;3.5;3.4;4
+female;group E;30;1950;high school;77153;3.8;3.7;3
+female;group B;28;1842;some high school;49837;3.7;3.2;5
+male;group A;33;2236;associate's degree;85945;4.0;3.8;6
+female;group D;30;1972;high school;68999;3.7;3.5;4
+female;group B;28;2001;associate's degree;74134;3.7;3.4;4
+male;group A;25;1747;some high school;61059;3.2;3.5;3
+male;group D;26;1813;some high school;22562;3.3;3.1;7
+male;group C;30;1971;some high school;32460;3.8;3.2;5
+male;group D;28;2015;some college;73841;3.9;3.4;4
+female;group D;24;1761;some college;52706;3.3;3.2;4
+male;group C;28;1959;some high school;70271;3.7;3.7;4
+female;group E;24;1784;some college;61258;3.2;3.3;3
+female;group D;29;2049;some college;84860;3.8;3.3;4
+male;group D;30;2116;high school;47119;3.9;3.2;7
+female;group B;26;1912;some high school;38975;3.5;3.1;7
+female;group B;30;2101;associate's degree;80632;3.9;3.7;5
+male;group C;29;1914;master's degree;76701;3.6;3.6;3
+female;group C;30;2011;associate's degree;75578;3.8;3.3;5
+female;group C;32;2195;some college;53779;4.0;3.3;4
+male;group E;27;1859;associate's degree;78649;3.5;3.3;4
+female;group C;27;1845;associate's degree;59313;3.4;3.2;4
+male;group D;29;1988;some high school;52314;3.8;3.7;3
+female;group B;27;1857;high school;88140;3.5;3.6;6
+male;group C;31;2091;associate's degree;69841;4.0;3.8;3
+male;group B;29;2107;high school;48973;3.9;3.4;6
+male;group E;27;1949;high school;17425;3.4;3.1;6
+female;group E;30;2027;some high school;34290;3.8;2.9;6
+male;group E;26;1862;some college;67121;3.6;3.5;4
+female;group D;28;1985;high school;11825;3.7;2.8;8
+male;group C;31;2082;master's degree;90288;4.0;3.7;4
+female;group B;27;1797;some high school;34029;3.4;3.1;8
+male;group A;30;2051;associate's degree;88055;4.0;3.8;3
+female;group C;29;2064;some college;64038;3.8;3.3;4
+male;group D;32;2089;master's degree;89761;4.0;3.6;5
+female;group E;29;2038;some college;47592;3.9;3.4;5
+male;group C;28;1899;master's degree;89430;3.7;3.3;4
+male;group C;31;2110;some college;89083;4.0;3.7;4
+female;group B;32;2227;associate's degree;76048;4.0;3.5;5
+male;group D;29;1906;some college;64241;3.6;3.1;5
+male;group C;33;2296;master's degree;104894;4.0;4.0;6
+male;group D;24;1812;some college;90809;3.2;3.2;4
+female;group A;27;1794;some college;105171;3.4;3.0;5
+female;group C;29;1947;associate's degree;92466;3.8;3.7;3
+female;group C;30;2046;some college;68496;3.9;3.1;6
+male;group B;28;2037;associate's degree;75053;3.9;3.2;5
+male;group D;28;1856;high school;66794;3.4;3.5;3
+male;group D;31;1977;associate's degree;86122;3.9;3.3;6
+male;group C;33;2055;associate's degree;64614;4.0;3.5;5
+female;group C;28;1875;some college;75255;3.4;3.2;5
+male;group B;27;1961;associate's degree;54937;3.6;3.3;4
+male;group D;26;1932;associate's degree;71267;3.6;3.4;4
+male;group E;26;1828;some high school;58318;3.3;3.3;5
+male;group C;30;2093;some college;60934;4.0;3.4;4
+female;group C;31;2210;some high school;42975;4.0;3.4;5
+male;group C;26;1765;some high school;32465;3.3;2.9;6
+female;group E;27;2004;bachelor's degree;91090;3.7;3.3;4
+male;group D;30;2129;associate's degree;93824;4.0;3.6;8
+male;group E;29;1972;some college;93166;3.7;3.7;4
+female;group D;28;2019;associate's degree;57734;3.8;3.3;6
+male;group B;31;2150;bachelor's degree;76416;4.0;3.7;3
+female;group C;31;2122;bachelor's degree;88431;4.0;3.6;4
+female;group D;29;2066;associate's degree;83279;4.0;3.6;4
+male;group D;27;2076;associate's degree;44268;3.8;3.4;5
+female;group B;26;1883;some college;96043;3.4;3.3;4
+male;group D;29;2004;associate's degree;68656;3.8;3.7;3
+female;group B;33;2150;associate's degree;78499;4.0;3.6;4
+female;group C;33;2247;associate's degree;84459;4.0;3.9;3
+male;group B;27;1815;some high school;61320;3.5;3.3;6
+female;group D;30;1961;master's degree;87120;3.8;3.4;4
+male;group A;28;1965;high school;82364;3.7;3.5;4
+male;group B;26;1886;bachelor's degree;89485;3.5;3.2;6
+male;group D;33;2191;associate's degree;78906;4.0;3.4;7
+female;group B;27;1977;some high school;56602;3.6;3.3;7
+female;group C;28;1979;high school;67875;3.8;3.5;6
+male;group B;33;2194;associate's degree;98368;4.0;3.7;5
+female;group B;30;2108;some college;71004;4.0;3.6;5
+female;group B;32;2113;associate's degree;75003;4.0;3.8;3
+female;group C;35;2159;associate's degree;73290;4.0;3.5;4
+female;group A;30;2033;some college;74628;3.8;3.6;5
+male;group E;28;1980;some college;51622;3.8;3.4;4
+female;group D;28;1994;associate's degree;50339;3.7;3.4;4
+female;group B;29;2019;associate's degree;83109;3.8;3.7;3
+female;group B;31;2143;associate's degree;62448;4.0;3.5;5
+female;group C;29;1985;high school;35202;3.7;3.4;5
+male;group C;29;2011;bachelor's degree;100095;3.9;3.3;5
+female;group B;28;1906;some high school;40436;3.7;3.2;5
+female;group E;25;1968;bachelor's degree;113257;3.7;3.5;5
+female;group B;31;2091;associate's degree;64189;4.0;3.5;7
+male;group C;30;2048;bachelor's degree;71333;4.0;3.2;5
+female;group C;32;2245;associate's degree;99313;4.0;3.6;4
+female;group B;26;1802;master's degree;85780;3.4;3.2;4
+female;group D;27;1879;some college;64592;3.4;3.1;4
+male;group D;30;2076;associate's degree;68811;4.0;3.5;6
+male;group E;30;2028;associate's degree;59727;4.0;3.5;5
+female;group B;32;2262;master's degree;92318;4.0;3.8;5
+female;group E;29;2182;bachelor's degree;88901;4.0;3.6;7
+male;group D;23;1732;some high school;36134;3.0;3.1;6
+female;group E;31;2059;associate's degree;99350;4.0;3.7;8
+male;group E;23;1734;some college;63580;3.1;3.2;5
+female;group C;30;2192;bachelor's degree;90765;4.0;3.8;7
+male;group C;32;2163;bachelor's degree;79212;4.0;3.8;3
+male;group C;25;1819;high school;66409;3.3;3.5;3
+female;group E;25;1684;some high school;45805;3.0;2.8;6
+female;group B;30;2093;some college;60152;4.0;3.5;4
+female;group C;28;2003;some college;71962;3.7;3.7;3
+male;group A;27;1991;bachelor's degree;68805;3.9;3.6;3
+female;group D;25;1777;some high school;20329;3.1;2.7;6
+female;group E;31;2100;some high school;59791;4.0;3.2;9
+male;group C;27;1912;bachelor's degree;104877;3.7;3.5;4
+male;group B;30;2034;master's degree;78925;3.9;3.6;5
+male;group A;28;1936;some high school;22694;3.5;3.1;6
+male;group A;28;2113;bachelor's degree;70324;4.0;3.2;5
+female;group C;30;2123;master's degree;44096;4.0;3.5;4
+male;group E;30;2035;high school;81990;3.9;3.8;4
+female;group C;27;1873;associate's degree;69828;3.4;3.0;9
+male;group B;26;1828;some college;49688;3.5;3.2;5
+female;group A;27;1867;high school;47170;3.3;2.9;6
+male;group D;28;1932;bachelor's degree;82518;3.7;3.2;6
+female;group B;32;2252;bachelor's degree;100637;4.0;3.8;3
+female;group C;23;1758;some high school;43606;3.1;3.3;4
+female;group A;32;2173;some high school;62024;4.0;3.3;5
+female;group D;30;2093;high school;41723;3.9;3.7;4
+male;group E;28;1882;high school;40503;3.5;3.2;5
+female;group B;27;1984;high school;80459;3.6;3.6;4
+female;group C;27;1980;some college;44845;3.7;3.4;4
+male;group C;30;2019;some college;63627;3.9;2.9;6
+female;group C;25;1792;some college;62345;3.2;3.2;5
+female;group C;27;1969;master's degree;69816;3.6;3.6;3
+female;group D;36;2354;master's degree;56711;4.0;3.6;4
+male;group B;27;1890;associate's degree;85917;3.4;3.1;5
+female;group A;28;1906;associate's degree;92568;3.5;3.6;5
+female;group C;27;1909;high school;78051;3.4;3.4;6
+male;group A;30;2084;associate's degree;91265;4.0;3.9;3
+female;group B;29;2088;bachelor's degree;86498;3.9;3.7;3
+male;group B;31;2154;high school;36433;4.0;3.2;7
+female;group C;34;2145;high school;84473;4.0;3.7;6
+male;group E;23;1685;some college;70167;3.1;3.4;3
+female;group A;30;2063;bachelor's degree;71445;3.9;3.5;7
+male;group B;27;1841;high school;22702;3.4;3.1;5
+female;group C;29;1929;some high school;63212;3.6;3.2;5
+female;group D;29;2135;some college;90002;3.9;3.8;4
+male;group C;28;2008;some college;47696;3.8;3.5;4
+female;group B;29;2121;bachelor's degree;43324;4.0;3.3;8
+male;group B;27;1899;bachelor's degree;74349;3.6;3.2;4
+female;group D;32;2222;some high school;57558;4.0;3.8;7
+male;group E;30;2081;associate's degree;82087;3.9;3.0;7
+male;group C;28;2006;bachelor's degree;97238;3.8;3.8;3
+male;group D;30;2021;bachelor's degree;85216;3.8;3.7;4
+female;group C;28;1975;associate's degree;71613;3.8;3.3;5
+male;group D;27;1960;some high school;50433;3.5;3.5;3
+male;group C;28;1953;high school;41043;3.7;3.5;4
+female;group A;27;1962;some college;68215;3.6;3.7;5
+female;group E;31;2237;master's degree;81878;4.0;3.7;4
+male;group E;29;2089;master's degree;85176;3.8;3.4;8
+male;group C;28;2001;some college;78653;3.8;3.3;4
+female;group B;29;2013;master's degree;71297;3.8;3.6;3
+male;group B;29;2040;high school;55790;3.9;3.5;8
+female;group C;27;1919;some high school;40252;3.5;3.3;5
+male;group B;29;2068;some high school;58284;3.8;3.7;4
+male;group C;28;1983;bachelor's degree;93259;3.6;3.3;7
+female;group C;29;2046;bachelor's degree;84534;3.8;3.6;4
+female;group E;31;1994;some high school;71704;3.9;3.6;7
+male;group D;26;1860;some high school;41794;3.6;3.1;5
+female;group C;25;1756;some high school;42804;3.3;3.1;7
+male;group C;29;1989;some high school;49514;3.8;3.3;8
+male;group D;29;2034;high school;72570;3.8;3.7;4
+male;group C;31;2003;high school;67293;3.8;3.5;4
+male;group B;30;2186;bachelor's degree;62145;4.0;3.7;3
+male;group E;22;1676;high school;58504;2.9;3.1;7
+male;group C;30;2040;high school;80323;3.9;3.7;4
+male;group B;27;1863;high school;67139;3.3;3.5;3
+female;group C;29;2054;some college;82837;3.9;3.3;8
+male;group B;27;1927;bachelor's degree;90834;3.6;3.3;4
+male;group E;27;1918;associate's degree;72761;3.5;3.3;6
+female;group C;30;2035;some high school;65693;3.8;3.3;4
+male;group C;27;1873;high school;34400;3.5;3.0;9
+male;group D;28;2051;high school;64439;3.9;3.7;3
+male;group C;34;2346;bachelor's degree;62069;4.0;3.8;3
+female;group D;28;1968;associate's degree;55314;3.6;3.2;6
+female;group D;29;1965;high school;64429;3.7;3.3;4
+male;group C;35;2310;master's degree;72148;4.0;3.8;4
+female;group E;31;2161;some high school;45787;4.0;3.5;5
+female;group B;29;1917;some high school;40426;3.6;3.4;4
+male;group D;30;1985;high school;49766;3.7;3.6;4
+female;group E;31;2027;bachelor's degree;80881;3.9;3.6;3
+female;group C;29;2152;master's degree;101483;4.0;3.0;9
+female;group E;24;1749;high school;69878;3.2;3.2;4
+male;group C;30;1981;high school;48564;3.7;3.2;7
+female;group D;32;2287;bachelor's degree;59860;4.0;3.6;4
+male;group D;32;2134;some college;58719;4.0;3.4;5
+female;group E;21;1624;some high school;32087;2.8;3.3;4
+female;group E;32;2181;associate's degree;93418;4.0;3.6;4
+female;group A;31;2202;associate's degree;81270;4.0;3.5;4
+male;group D;33;2330;bachelor's degree;84827;4.0;3.6;4
+female;group E;28;2042;bachelor's degree;91552;3.8;3.8;3
+female;group E;27;1960;some high school;53580;3.8;3.7;3
+male;group B;27;1797;high school;84686;3.5;3.4;4
+female;group B;33;2247;associate's degree;60767;4.0;3.7;3
+male;group D;23;1745;some college;32694;3.0;2.9;5
+female;group D;26;2035;bachelor's degree;78729;3.9;3.6;7
+male;group D;29;2054;some college;66411;3.9;3.4;4
+female;group C;31;2035;master's degree;77779;4.0;3.7;3
+female;group A;27;2022;some high school;25900;3.7;2.8;6
+female;group D;30;2122;master's degree;111211;3.9;3.7;6
+female;group D;27;1958;associate's degree;51154;3.7;3.2;6
+male;group D;27;1970;bachelor's degree;59807;3.8;3.1;5
+male;group B;31;2087;master's degree;111586;4.0;3.8;4
+female;group D;26;1867;some high school;65238;3.5;3.4;4
+female;group C;28;1982;associate's degree;64997;3.7;3.2;5
+male;group E;29;2091;associate's degree;70822;3.8;3.5;5
+male;group D;32;2190;some college;60855;4.0;3.6;3
+female;group A;34;2326;bachelor's degree;68918;4.0;3.5;7
+female;group C;27;1840;high school;45433;3.4;3.0;6
+female;group C;30;2036;some high school;62805;3.8;3.2;5
+female;group B;28;1999;some high school;58124;3.7;3.3;4
+female;group E;29;2060;associate's degree;50067;3.8;3.3;4
+male;group E;28;1975;associate's degree;76623;3.8;3.4;4
+female;group C;31;2117;associate's degree;56238;4.0;3.7;3
+female;group C;23;1740;high school;58189;3.1;3.3;7
+male;group B;26;1941;associate's degree;58255;3.6;3.3;4
+male;group D;27;1854;some high school;32366;3.4;3.5;7
+female;group C;29;2021;associate's degree;69889;3.9;3.6;3
+male;group D;27;1930;high school;43858;3.5;3.3;5
+female;group B;28;1944;some college;50122;3.7;3.1;5
+male;group D;27;2008;master's degree;97107;3.8;3.2;6
+male;group E;30;1993;high school;39955;3.7;3.4;5
+male;group E;29;2028;some college;36485;3.8;3.1;5
+female;group D;33;2170;some high school;59803;4.0;3.5;5
+male;group E;30;2142;associate's degree;56519;4.0;3.7;3
+female;group C;28;1908;some college;81664;3.5;3.4;4
+male;group C;30;2088;master's degree;77074;4.0;3.5;4
+male;group D;26;1960;bachelor's degree;63324;3.4;3.5;3
+male;group D;30;2098;associate's degree;67936;4.0;3.3;4
+male;group C;30;2028;associate's degree;80326;3.8;3.4;7
+male;group C;30;1989;some high school;54167;3.8;3.4;4
+male;group D;27;1922;some college;88314;3.6;3.4;4
+male;group A;35;2249;master's degree;108966;4.0;3.6;4
+female;group E;30;2082;associate's degree;76281;4.0;3.4;4
+male;group D;31;2115;some college;80735;4.0;3.5;4
+male;group D;27;1892;some high school;23614;3.6;3.1;5
+male;group C;31;2259;associate's degree;69075;4.0;3.6;4
+female;group D;28;1912;some high school;68320;3.6;3.4;4
+male;group C;26;1763;some high school;48052;3.2;2.8;9
+male;group A;28;1887;some college;86781;3.4;3.2;5
+female;group B;32;2170;associate's degree;54720;4.0;3.7;4
+female;group C;29;2011;some high school;57278;3.7;3.6;3
+male;group B;31;2116;bachelor's degree;83070;4.0;3.7;4
+female;group D;29;2037;associate's degree;81088;3.9;3.6;4
+male;group B;28;1991;some college;46095;3.7;3.3;5
+female;group E;28;1989;some college;67171;3.8;3.0;5
+male;group E;29;1942;some high school;65467;3.7;3.3;7
+female;group D;22;1656;some high school;48176;3.0;2.8;6
+female;group E;30;2123;some college;72100;3.9;3.5;5
+male;group C;30;2146;master's degree;70027;4.0;3.5;4
+female;group C;33;2222;associate's degree;61916;4.0;3.5;4
+male;group E;34;2273;some college;63974;4.0;3.5;7
+male;group C;30;2129;master's degree;73418;4.0;3.7;3
+female;group D;30;2067;master's degree;97751;4.0;3.5;6
+female;group D;27;1988;some college;45628;3.8;3.0;6
+male;group C;29;1957;associate's degree;73784;3.7;3.2;5
+female;group A;32;2211;bachelor's degree;95222;4.0;3.5;4
+female;group D;31;2086;master's degree;88887;4.0;3.1;5
+female;group E;27;1975;associate's degree;84047;3.8;3.5;7
+female;group C;28;1891;high school;25742;3.6;3.3;6
+male;group D;28;2030;bachelor's degree;69057;3.8;3.5;4
+female;group D;30;2137;bachelor's degree;66940;4.0;3.5;4
+male;group A;33;2213;bachelor's degree;93327;4.0;3.4;5
+male;group C;30;2136;some college;83461;4.0;3.5;6
+female;group E;29;2081;associate's degree;87861;3.9;3.4;5
+female;group B;31;2207;bachelor's degree;99873;4.0;3.9;5
+female;group D;26;1952;some college;70326;3.5;3.2;4
+male;group C;33;2276;master's degree;80520;4.0;3.8;5
+female;group A;27;1934;some college;45803;3.6;3.3;5
+female;group D;31;2082;some high school;54219;3.9;3.5;8
+female;group A;32;2114;some high school;76872;3.9;3.2;7
+female;group C;28;2033;associate's degree;74653;3.9;3.2;5
+male;group B;29;2045;bachelor's degree;87685;4.0;3.4;8
+male;group C;26;1837;some high school;52548;3.3;2.9;5
+male;group D;30;2015;some high school;60425;3.8;3.5;5
+female;group C;27;2055;some college;77818;3.7;3.5;4
+female;group B;34;2202;high school;51471;4.0;3.5;6
+male;group D;32;2314;some college;58134;4.0;3.3;9
+male;group B;29;2040;bachelor's degree;68591;4.0;3.4;5
+female;group A;30;2036;some college;43149;3.8;3.1;5
+female;group C;29;2011;associate's degree;69897;3.8;3.1;6
+male;group A;32;2205;bachelor's degree;68025;4.0;3.6;5
+female;group C;25;1883;some high school;40194;3.5;3.2;6
+male;group E;27;1859;associate's degree;85096;3.5;3.0;5
+female;group A;27;1869;some college;50347;3.6;3.2;4
+female;group D;25;1784;high school;69270;3.1;3.4;3
+male;group E;31;2178;associate's degree;60027;4.0;3.6;4
+female;group B;29;2064;bachelor's degree;109674;4.0;3.7;4
+female;group D;28;1990;master's degree;78682;3.9;3.6;4
+female;group D;31;2123;associate's degree;86029;4.0;3.5;4
+male;group A;31;2243;some college;81447;4.0;3.5;4
+female;group E;24;1636;some high school;29975;3.0;2.6;9
+male;group C;28;1935;some college;97585;3.7;3.6;4
+female;group C;32;2105;associate's degree;81103;4.0;3.4;5
+female;group D;29;1998;high school;66327;3.8;3.2;5
+female;group D;28;2119;bachelor's degree;55838;3.9;3.2;4
